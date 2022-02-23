@@ -1,0 +1,251 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The whys? and the how?, or, A good enquiry a sermon preach'd before Their Majesties in their chappel at St. James's the 2d. Sunday of Advent, December 6th. 1685 / by J.D. of the Society of Jesus.</title>
+            <author>J. D. (John Dormer), 1636-1700.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 32 KB of XML-encoded text transcribed from 19 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A36357</idno>
+            <idno type="STC">Wing D1929</idno>
+            <idno type="STC">ESTC R9728</idno>
+            <idno type="EEBO-CITATION">12384943</idno>
+            <idno type="OCLC">ocm 12384943</idno>
+            <idno type="VID">60820</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A36357)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 60820)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 937:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The whys? and the how?, or, A good enquiry a sermon preach'd before Their Majesties in their chappel at St. James's the 2d. Sunday of Advent, December 6th. 1685 / by J.D. of the Society of Jesus.</title>
+                  <author>J. D. (John Dormer), 1636-1700.</author>
+               </titleStmt>
+               <extent>[2], 34 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Nat. Thompson ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Advent sermons.</term>
+               <term>Sermons, English --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-06</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:60820:1"/>
+            <pb facs="tcp:60820:1" rendition="simple:additions"/>
+            <p>The <hi>WHYs?</hi> and the HOW<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> OR, A Good ENQUIRY: A SERMON Preach'd before Their MAJESTIES In Their CHAPPEL at St. JAMES's The 2d. Sunday of <hi>Advent, December</hi> 6th. 1685.</p>
+            <p>By <hi>J.D.</hi> of the Society of <hi>Jeſus.</hi>
+            </p>
+            <p>Published by His Majeſties Command.</p>
+            <p>
+               <g ref="char:cross">✚</g>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>Nat. Thompſon</hi> at the Entrance into the <hi>Spring Garden</hi> near <hi>Charing Croſs,</hi> MDCLXXXVII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb facs="tcp:60820:2"/>
+            <pb n="1" facs="tcp:60820:2"/>
+            <head>A SERMON Preach'd before Their MAJESTIES At their Chappel at St. <hi>James</hi>'s.</head>
+            <epigraph>
+               <q>
+                  <bibl>Math. II. ver. 3.</bibl>
+                  <p>Joannes cum audiſſet in Vinculis Opera <hi>Chriſti,</hi> mittens duos de Diſcipulis, ait illi: Tu es qui venturus eſt an alium expectamus.</p>
+                  <p>When <hi>John</hi> had heard in the Priſon the Works of <hi>Chriſt,</hi> he ſent two of his Diſciples, and ſaid unto him: Art thou He that ſhould come, or do we look for another?</p>
+               </q>
+            </epigraph>
+            <p>THat Nature is a Book, compoſed of as many Words as Parts, full of Divinity, and leading to the know<g ref="char:EOLhyphen"/>ledge
+<pb n="2" facs="tcp:60820:3"/>of a God, was an ancient De<g ref="char:EOLhyphen"/>ciſion of <hi>Triſmegiſtus,</hi> Authoriz'd ſince by the Holy Ghoſt, in St. <hi>Paul</hi> to the <hi>Romans, chap.</hi> 1. <hi>ver.</hi> 20. <hi>Inviſibilia ejus ipſius a creatione Mundi per ea quae facta ſunt intellecta conſpiciuntur ſempiterna quoque ejus Virtus &amp; Divinitas. For the inviſible things of him, from the Cre<g ref="char:EOLhyphen"/>ation of the World, are clearly to be ſeen, being underſtood by the things that are made, even his Eternal Power and God<g ref="char:EOLhyphen"/>head.</hi>
+            </p>
+            <p>However time was, when the un<g ref="char:EOLhyphen"/>happy Children of <hi>Adam,</hi> taking the Book into their hands, were charmed with the lovelineſs of its Letters, the Crea<g ref="char:EOLhyphen"/>tures, and careleſs in ſearching after the Compoſer of ſo Noble a work; cour<g ref="char:EOLhyphen"/>ted and adored ſuch Toys, as were pleaſing to Senſe and Fancy, at the ſame time Erecting Altars, <hi>Acts</hi> the 17. <hi>v.</hi> 23. <hi>ignoto Deo, To the unknown God.</hi>
+            </p>
+            <pb n="3" facs="tcp:60820:3"/>
+            <p>But if the Learned Piece of the Uni<g ref="char:EOLhyphen"/>verſe, coming from under the Preſs of Omnipotency, diſcovered not at the firſt ſight its Authors Name, being re<g ref="char:EOLhyphen"/>printed by the Hand of Mercy, the Author it ſelf, under Characters of Fleſh, appeared on the Frontiſpiece, viſible, and converſant with Men, <hi>&amp; verbum caro factum eſt, Jo.</hi> 1. v. 14. <hi>and the Word was made Fleſh; &amp; habitavit in nobis, and dwelt amongſt us.</hi>
+            </p>
+            <p>For as in the Creation, it was neceſſa<g ref="char:EOLhyphen"/>ry to read the Book, to know its Au<g ref="char:EOLhyphen"/>thor, this depending of humane Reaſon; ſo in the Redemption, it was neceſſary to know the Author, to underſtand the Book, this depending of Divine Faith; and therefore the Great, and more than Prophet St. <hi>John</hi> the <hi>Baptiſt,</hi> diſpatches from the Priſon, two of his Diſciples with this meſſage to <hi>Chriſt, Tu es qui venturus eſt, an alium expecta<g ref="char:EOLhyphen"/>mus?
+<pb n="4" facs="tcp:60820:4"/>Art thou He that ſhould come, or do we look for another?</hi> A neceſſary Enquiry, by which, coming from <hi>John</hi> in the Priſon, we are taught,</p>
+            <p>Firſt, the requiſites to a good enqui<g ref="char:EOLhyphen"/>ry, which are Solitude, and a right be<g ref="char:EOLhyphen"/>ginning.</p>
+            <p>Secondly, to enquire only for what is neceſſary.</p>
+            <p>Thirdly, to look for one, and not another.</p>
+            <p>Truth becomes the Place that I un<g ref="char:EOLhyphen"/>worthily am in; and that I may ſay nothing, but what becomes it, let us im<g ref="char:EOLhyphen"/>plore the Aſſiſtance of the God of Truth, by the Interceſſion of his ever Virgin Mother, <hi>Ave Maria.</hi>
+            </p>
+            <div type="part">
+               <head>Joannes cum audiſſet in Vinculis. <hi>When</hi> John <hi>had heard in the Priſon.</hi>
+               </head>
+               <p>THe firſt requiſite to a good en<g ref="char:EOLhyphen"/>quiry, is Solitude, for Solitude
+<pb n="5" facs="tcp:60820:4"/>is the Mother of Thoughts; Thinking, Fathers Wiſdom: when Thoughts and Reaſon are lull'd aſleep, Folly takes its wandring Dreams, and cloſes our Eyes to the higheſt concerns.</p>
+               <p>The School therefore, in which we are taught the important leſſon of a good Enquiry, is a Priſon, the ſeat of retiredneſs; And We, to learn our Leſſon, muſt go to School, that is, re<g ref="char:EOLhyphen"/>tire.</p>
+               <p>
+                  <hi>John</hi> was in Priſon, but with En<g ref="char:EOLhyphen"/>largement from a worſe; He was in Priſon, but out of a diſturbing World: For if in the beginning, I told you, this World is a Book, what is a Book to the Readers Eye and Mind, but a Pri<g ref="char:EOLhyphen"/>ſon? If I ſaid the Creatures, are ſo many viſible Words, now I tell you theſe Words, not rightly underſtood, are ſo many forcible Chains, binding our Affections to the Earth.</p>
+               <pb n="6" facs="tcp:60820:5"/>
+               <p>Yes, the World is a Priſon, yet a Priſon none fear, all love; and ſhould I term its hardſhip, and our engage<g ref="char:EOLhyphen"/>ments, ſo many Gallies, your World<g ref="char:EOLhyphen"/>lings would ſmile, tug on rowing, and never care to better their Conditi<g ref="char:EOLhyphen"/>on. They are ſtunn'd with Noiſes, di<g ref="char:EOLhyphen"/>ſtracted with Varieties; and, as if living, they were returned into Earth, they ſeek nothing but Earthly things: Te<g ref="char:EOLhyphen"/>nements upon Earth, Pallaces upon Earth, Honors upon Earth, Riches upon Earth, Pleaſures upon Earth.</p>
+               <p>As for Heaven, it is ſlighted; As for Eternity, it is forgotten; As for Judge<g ref="char:EOLhyphen"/>ment, it is not feared; As for Hell, it is not thought on. Enormous Diſor<g ref="char:EOLhyphen"/>ders in a Soul! But what Remedy? what Remedy? Attention, and you ſhall hear.</p>
+               <p>The choſen People of God, the Houſe of <hi>Iſrael, Hoſea</hi> the 2d. was paſ<g ref="char:EOLhyphen"/>ſed
+<pb n="7" facs="tcp:60820:5"/>to all exorbitances of Idolatry a<g ref="char:EOLhyphen"/>gainſt the Lord their God; yet his ten<g ref="char:EOLhyphen"/>der Heart could not but own them for his People, who ſo diſgraciouſly had caſt him off, and diſown'd him for their God; And therefore, with a Fa<g ref="char:EOLhyphen"/>therly Care, provides for the retrieving ſuch abominable exceſſes; But how? Firſt, as he did by <hi>Jeremy, Ezekiel,</hi> and other Prophets, ſo now he threatens them with his dreadful Judgment; But then, as it were mindful, of the little Fruit, he had reap'd from menaces, he reſolves to ſteer a different courſe, and betake himſelf to a more efficacious way, and it is laid down in the 14th Verſe, <hi>Lactabo eam,</hi> ſay our Loving God, <hi>I will allure her; &amp; ducam eam in ſolitudinem, and I will lead her into a Wilderneſs; &amp; loquar ad Cor ejus, and I will ſpeak to her Heart; I will ſpeak to her Heart.</hi>
+               </p>
+               <pb n="8" facs="tcp:60820:6"/>
+               <p>
+                  <hi>But firſt I will lead her into a Wilder<g ref="char:EOLhyphen"/>neſs; Cor ejus, her Heart:</hi> Methinks I mark ſomething Emphatical in the Words, <hi>her Heart.</hi> Had ſhe not then a Heart out of the Wilderneſs? She had a Heart, but it was not hers, it was divided between as many Paſſi<g ref="char:EOLhyphen"/>ons as enſlaved her. Avarice had her Heart, Ambition had her Heart, En<g ref="char:EOLhyphen"/>vy had her Heart, Vanity had her Heart, Luxury had her Heart, all Vi<g ref="char:EOLhyphen"/>ces ſhared in it: By Solitude God opened her Eyes, made her ſee her Bondage, hate her Slavery, break her Chains, and ſo reſtored her Heart to her, that ſhe ſhould give it to him; And therefore <hi>I will lead her into a Wilder<g ref="char:EOLhyphen"/>neſs, and ſpeak to her Heart.</hi>
+               </p>
+               <p>
+                  <hi>Ego vox clamantis,</hi> ſays the <hi>Baptiſt, Jo.</hi> the 1. <hi>I am the Voice of one that cryeth,</hi> but where? <hi>in Deſerto, in the Wilderneſs.</hi> But what? <hi>Parate vias Domini, Prepare
+<pb n="9" facs="tcp:60820:6"/>the way of the Lord;</hi> and what are the ways of the Lord but Enquiries? If we are <hi>Chriſt</hi>'s Sheep, as he is often pleas'd to ſtyle us, like Sheep, we muſt have our ſolitary Walks, to hear his Voice. And O! that <hi>Chriſtians,</hi> of ſo many Days, Weeks, Months, and Years, they caſt away in Vanity, would now and then, beſtow an hour or two in Solitude, they would ſoon diſcover the voice of Verity ſpeaking to their Hearts, and moving them to the enqui<g ref="char:EOLhyphen"/>ry of a virtuous Life, and happy Eter<g ref="char:EOLhyphen"/>nity: <hi>Ducam eam in Solitudinem.</hi>
+               </p>
+               <p>Yet Solitude, though the firſt ſtep, is not enough to a good Enquiry: We muſt hear, <hi>cum audiſſet;</hi> An En<g ref="char:EOLhyphen"/>quiry to be good muſt begin right, and end, where it began. I explain my my ſelf: <hi>John</hi>'s Enquiry began from <hi>Chriſt,</hi> in <hi>Chriſt</hi> to end; <hi>cum audiſſet:</hi> He firſt heard, then enquired; an en<g ref="char:EOLhyphen"/>quiry
+<pb n="10" facs="tcp:60820:7"/>is not to begin from us, but from the Object, our Paſſion or Ignorance, or both, often miſ-repreſents, and miſ<g ref="char:EOLhyphen"/>calls things; whereas there is a Truth in each thing, by which it is really to be known, for what it is. I own, things do not always diſcover themſelves, at their firſt appearance; but then, as if they were compoſed of interrogative points; they ſeem to enquire of us, what they are, for which Reaſon, a Being or Eſſence, is termed in the Schools, a <hi>Quidity,</hi> in true <hi>Engliſh,</hi> a <hi>what?</hi> Now to anſwer this <hi>what,</hi> we muſt not begin from Prejudice or Paſſi<g ref="char:EOLhyphen"/>on, nor enquire what we would have a thing to be, but what it is: <hi>Cum au<g ref="char:EOLhyphen"/>diſſet Opera Chriſti.</hi> The Works of <hi>Chriſt</hi> are the firſt enquiry made to <hi>John,</hi> and mov'd <hi>John</hi> to enquire of <hi>Chriſt,</hi> till by this inter-change of En<g ref="char:EOLhyphen"/>quiries, his Diſciples maſter the grand
+<pb n="11" facs="tcp:60820:7"/>Miſtery of the Incarnation. Were this Order obſerved, we ſhould not ſo often Injure Reaſon, nor ſo diſorderly miſ<g ref="char:EOLhyphen"/>place our eſteem.</p>
+               <p>To the clearer proof of this, St. <hi>Mat<g ref="char:EOLhyphen"/>thew</hi> in his 2d Chapter, preſents us with four Perſons, and thoſe of the firſt Rank, taken up with one and the ſame enqui<g ref="char:EOLhyphen"/>ry; yet the enquiry was not equally good in all: nay, in one, the enquiry after the beſt of things, proves the worſt of enquiries; You cannot but prevent me with your Thoughts, and remem<g ref="char:EOLhyphen"/>ber the Perſons concerned, are King <hi>Herod,</hi> and the <hi>Wiſe Men</hi> from the <hi>Eaſt.</hi> The <hi>Wiſe Men</hi> began their en<g ref="char:EOLhyphen"/>quiry from <hi>Chriſt, Herod</hi> from Jealouſie and Ambition; Their's happily ended in the Worſhip of a new born <hi>Meſſiah,</hi> His in the Murder of Thouſands of Infants.</p>
+               <p>
+                  <hi>
+                     <g ref="char:V">Ʋ</g>bi eſt qui natus eſt Rex Judeorum?
+<pb n="12" facs="tcp:60820:8"/>Where is he that is born King of the</hi> Jews, ſay the <hi>Wiſe Men;</hi> behold the Enquiry: <hi>Vidimus enim ſtellam in Ori<g ref="char:EOLhyphen"/>ento; For we have ſeen his Star in the Eaſt:</hi> Behold from whence the enqui<g ref="char:EOLhyphen"/>ry began: <hi>Et venimus adorare eum, And we are come to adore him;</hi> behold where it ends. <hi>Herod,</hi> on the contrary, at the report of their enquiry, was per<g ref="char:EOLhyphen"/>plex'd, and diſturb'd; <hi>Turbatus eſt He<g ref="char:EOLhyphen"/>rodes:</hi> Yet enquires too; he demands of the Learned, where <hi>Chriſt</hi> ſhould be born? This is little. <hi>Bethlehem</hi> being determin'd the place, he privately en<g ref="char:EOLhyphen"/>quires of the <hi>wiſe Men,</hi> and <hi>that dili<g ref="char:EOLhyphen"/>gently; diligenter dedicit:</hi> the time of the Star's appearance: This is not e<g ref="char:EOLhyphen"/>nough; He ſends them to <hi>Bethlehem,</hi> inculcating a diligent Search, <hi>Interroga<g ref="char:EOLhyphen"/>te diligenter de puero.</hi> You ſee, not on<g ref="char:EOLhyphen"/>ly enquiry upon enquiry, but dilgence upon diligence; Yet that's not all: He
+<pb n="13" facs="tcp:60820:8"/>them to return, to give him notice of what they'd found; and all for the new Born <hi>Meſſiah:</hi> And yet this enquiry, of the beſt of things, was the worſt of enquiries; and if you deſire the reaſon, it is, It began not from <hi>Chriſt</hi> as <hi>Chriſt,</hi> but from <hi>Chriſt,</hi> as he was in the trou<g ref="char:EOLhyphen"/>bled mind of <hi>Herod; Turbatus eſt; He was troubled.</hi>
+               </p>
+               <p>The <hi>wiſe Men,</hi> look'd upon him, for what he was; <hi>Herod,</hi> as upon one he feared; the <hi>wiſe Men,</hi> as upon the King of Heaven, <hi>Herod,</hi> as upon a Temporal; the <hi>wiſe Men,</hi> as hoping an Inheritance of Eternal Felicity; <hi>He<g ref="char:EOLhyphen"/>rod,</hi> as dreading the loſs of a Regency; and therefore the <hi>wiſe Men</hi>'s Enquiry, ended in Adoring Him as God and Saviour; <hi>Herod,</hi> in purſuing him as a Rival and Competitor.</p>
+               <p>So true it is, that a good <hi>enquiry</hi> muſt not begin from Us, but <hi>Chriſt;</hi> and
+<pb n="14" facs="tcp:60820:9"/>end where it began. Each thing has its proper voice; we are not to falſifie with our imperfect Eccho's, of Pre<g ref="char:EOLhyphen"/>judice and Paſſion, their natural ſound; but frame the value of each thing; the thing impartially frames of it ſelf: for again, I tell you, an enquiry to be good, muſt begin right, and end where it be<g ref="char:EOLhyphen"/>gan, <hi>Joannes cum audiſſet,</hi> &amp;c.</p>
+               <p>
+                  <hi>Tu es qui venturus es? Art thou he that ſhould come?</hi> a neceſſary enquiry; by which we are taught, to enquire only what is neceſſary; that is, to en<g ref="char:EOLhyphen"/>quire what is neceſſary, and no more.</p>
+               <p>The World, as it would be full of Knowledge, and is full of Ignorance, ſo it is full of enquiries; for an Enquiry is the Child of Knowledge and Igno<g ref="char:EOLhyphen"/>rance: were we wholly ignorant, we could have no ground; were we per<g ref="char:EOLhyphen"/>fectly knowing, we could have no mo<g ref="char:EOLhyphen"/>tive of enquiry. But hence ariſes a
+<pb n="15" facs="tcp:60820:9"/>difficulty, and it is; <hi>John,</hi> not only as a Prophet, and Fore-runner of <hi>Chriſt,</hi> but even as an Eye-witneſs, was perfectly knowing, of what he enquired; and yet enquires of what he knew. <hi>Jo.</hi> the 1ſt. <hi>ver.</hi> 29. he pointed out our Saviour, <hi>ecce Agnus Dei, Behold the Lamb of God,</hi> as he Baptized <hi>Chriſt, Heaven was opened, Luke</hi> 3. <hi>ver.</hi> 21 &amp; 22. <hi>He ſaw the Holy Ghoſt deſcend in a bodily ſhape upon Him.</hi> More, he heard a Voice come from Heaven, which ſaid, <hi>Thou art my beloved Son:</hi> He could not then be Ignorant of <hi>Chriſt,</hi> and yet enquires, <hi>Art thou he?</hi>
+               </p>
+               <p>The difficulty, as you ſee, is plain; and no leſs plain is the Solution. <hi>John</hi> order'd the Enquiry, but Ignorance made it; the Ignorance of his Diſci<g ref="char:EOLhyphen"/>ples, by an excuſe of Charity, he made his own; and enquires by them what he knew, to teach them to enquire, of
+<pb n="16" facs="tcp:60820:10"/>what they doubted, and yet was ne<g ref="char:EOLhyphen"/>ceſſary. <hi>Tu es? Art thou he?</hi>
+               </p>
+               <p>Now, to confine my Diſcourſe with<g ref="char:EOLhyphen"/>in its proper Bounds, it will not be a<g ref="char:EOLhyphen"/>miſs to ſettle a true Notion and Di<g ref="char:EOLhyphen"/>viſion of Ignorance, and it is no more than the want of a Truth, proportio<g ref="char:EOLhyphen"/>ned to our Capacity, if the means of obtaining Truth, be not in our Pow<g ref="char:EOLhyphen"/>er, by force we are ignorant of that Truth, nor can we make Enquiry, but this Ignorance is invincible, not wilful, and therefore not imputable to any. If we have the means of compaſſing a Truth neceſſary to Salvation, and make no Enquiry: according as ſuch means are more or leſs obvious; and by the meaſure of neglect, and the Im<g ref="char:EOLhyphen"/>portance of the Truth, our Ignorance is more or leſs culpable, and ever founds an Obligation of enquiring what is ne<g ref="char:EOLhyphen"/>ceſſary.</p>
+               <pb n="17" facs="tcp:60820:10"/>
+               <p>The Intent of my Diſcourſe bears me yet further, and methinks I diſco<g ref="char:EOLhyphen"/>ver a two-fold Ignorance, placed chief<g ref="char:EOLhyphen"/>ly in the Will; The firſt, proper to the Faithful; The ſecond, to the In<g ref="char:EOLhyphen"/>credulous: The firſt ſtops Enquiry, and makes one reſpectfully ignorant of what He ought not to know; the other makes one boldly inquiſitive, of what he ought to be ignorant: The firſt im<g ref="char:EOLhyphen"/>proves, the ſecond ſubverts Piety; The firſt was practis'd by the <hi>Baptiſt,</hi> the ſecond by the <hi>Jews;</hi> The firſt was taught us by the Spirit of God, the ſecond was a Leſſon of the Serpent: On the firſt is grounded the Order of the World and Religion, from the ſe<g ref="char:EOLhyphen"/>cond riſes Confuſion and Miſery.</p>
+               <p>
+                  <hi>Tu es? Art thou he?</hi> S. <hi>John</hi>'s contented to be ignorant of what he ought not to know, and enquires not of what he ought to be ignorant: He queſtions not the diſ<g ref="char:EOLhyphen"/>poſition
+<pb n="18" facs="tcp:60820:11"/>of God, as to his own Impri<g ref="char:EOLhyphen"/>ſonment: No. He knew it was pre<g ref="char:EOLhyphen"/>ſumptuous, to enter into the Cabinet-Council of Providence, and make it reſponſible to Man. He enquires of <hi>Chriſt,</hi> but with reſerve: He ſays not, <hi>Why art thou he? Or how art thou he? But art thou he?</hi> teaching us to content our ſelves with the Belief of what's re<g ref="char:EOLhyphen"/>vealed, and Obedience to what's com<g ref="char:EOLhyphen"/>manded, without the intermixing of our <hi>how's,</hi> and <hi>why's,</hi> and with reaſon, for the certain Knowledge of the <hi>why</hi> of God's Providence, and the <hi>how</hi> of his Myſteries, being only to be had from his Revealing Authority: If we mi<g ref="char:EOLhyphen"/>ſtruſt it as to the Subſtance, we ſhould miſtruſt it as to the motive and man<g ref="char:EOLhyphen"/>ner, and involve our ſelves in a Chaos of endleſs Enquiries.</p>
+               <p>How can one that is Born, be Eter<g ref="char:EOLhyphen"/>nal? ſay the <hi>Sammoratens,</hi> and ſo de<g ref="char:EOLhyphen"/>ny
+<pb n="19" facs="tcp:60820:11"/>
+                  <hi>Chriſts</hi> Eternity; and how can one that is Eternal, be born? ſay the <hi>Ebio<g ref="char:EOLhyphen"/>nites,</hi> and ſo deny <hi>Chriſt</hi> had a Mother; He had a Mother, ſays <hi>Sabellius,</hi> but how could ſhe be a Virgin? and ſo de<g ref="char:EOLhyphen"/>nies her Integrity: How can one be three, and three one? ſay the <hi>Arians,</hi> and ſo de<g ref="char:EOLhyphen"/>ny the conſubſtantiality of the ſecond Perſon of the Trinity with the firſt; how can two Wills, ſay the <hi>Monotholites,</hi> and how can two Natures, ſay the <hi>Eutichi<g ref="char:EOLhyphen"/>ans,</hi> ſubſiſt in one Perſon? and ſo con<g ref="char:EOLhyphen"/>fine <hi>Chriſt,</hi> the firſt to one Will, the ſecond to one Nature, and to avoid drawing nearer our Times. Did not the <hi>Capharnaites, Jo.</hi> 6. <hi>v.</hi> 55. with an im<g ref="char:EOLhyphen"/>pertinent <hi>how,</hi> withdraw part of <hi>Chriſts</hi> Diſciples from him. <hi>Caro mea vere eſt Cibis, &amp; Sanguis meus vere eſt Potus, My Fleſh is Meat indeed, and my Blood is Drink indeed,</hi> ſays <hi>Chriſt</hi> in expreſs Terms; and notwithſtanding the aſſe<g ref="char:EOLhyphen"/>veration
+<pb n="20" facs="tcp:60820:12"/>of Truth its ſelf; for a <hi>quomodo poteſt hic nobis carnem ſuam dare ad man<g ref="char:EOLhyphen"/>duandum? How can this Man give us his Fleſh to eat? Many of his Diſciples went back, ver.</hi> 66. <hi>and walked no more with him.</hi>
+               </p>
+               <p>It is a Folly of Follies, to paſs from the Subject of Faith, to that of Specula<g ref="char:EOLhyphen"/>tions, as if the certainty of the Myſte<g ref="char:EOLhyphen"/>ries of Faith could not ſubſiſt, without comprehending the Manner <hi>how</hi> they are effected. Let theſe inquiſitive Wiſe<g ref="char:EOLhyphen"/>lings Seat themſelves in the Chair of their pretended Science, and declare me the <hi>how</hi> of the cleareſt Truths, the Light of Nature diſplays. They Live, let them tell me <hi>how?</hi> Is the Brain, the Heart, or the whole, the Seat of Life? They breath, let them tell me <hi>how?</hi> Is it the Air that preſ<g ref="char:EOLhyphen"/>ſes on us, or we that firſt attract the Air, and <hi>how?</hi> they move, let them tell
+<pb n="21" facs="tcp:60820:12"/>me <hi>how?</hi> Doth the firſt puſh come from Will, or Fancy? if ſo, how doth Will or Fancy firſt move it ſelf? They ſee, let them tell me <hi>how?</hi> is it by viſual Rays paſſing from the Eye to the Ob<g ref="char:EOLhyphen"/>ject, or by little Images or Species, coming from the Object to the Eye? They remember, let them tell me <hi>how?</hi>
+               </p>
+               <p>Now if in Natural things, they find themſelves at a ſtand: Nor doth the Ignorance of ſuch <hi>how's</hi> weaken the certainty and evidence of the things themſelves, why ſhould the uncertain<g ref="char:EOLhyphen"/>ty of a <hi>how,</hi> as to the Sublime Myſte<g ref="char:EOLhyphen"/>ries of Faith, leſſen their Credibility? No, no. <hi>Noli intelligere,</hi> ſays St. <hi>Auſtin,
+<note place="margin">In Joan.</note> ut credas, ſed crede ut intelligas, intellectus merces Fidei eſt; Do not pretend to know to believe, but believe to know; knowing is the reward of believing.</hi> For theſe <hi>hows</hi> are but falſe ſteps in a <hi>Chriſtian</hi> ten<g ref="char:EOLhyphen"/>ding to Incredulity, as your <hi>why's</hi> are to Diſobedience.</p>
+               <pb n="22" facs="tcp:60820:13"/>
+               <p>Unhappy <hi>Adam,</hi> thrice happy hadſt thou been, and in Thee, thy Poſterity, hadſt thou not given ear to a pernicious Enquiry, but reſted in an humble Complyance with Gods Precept. The Lord God, <hi>Gen.</hi> the 2d. had planted for Man a Garden of Delights; what more Loving? Out of the Ground he made to grow, <hi>every Tree pleaſant to the Sight, and good for Food,</hi> what more Obliging? He often viſits him in Per<g ref="char:EOLhyphen"/>ſon, what more Honourable? He im<g ref="char:EOLhyphen"/>powers him to eat of all, <hi>ver.</hi> 16. <hi>De omni ligno Paradiſi comede, Of every Tree of the Garden thou mayſt eat freely.</hi> Of every Tree? How comes then the Tree of the Knowledge of <hi>Good</hi> and <hi>Evil</hi> to be forbidden in the follow<g ref="char:EOLhyphen"/>ing Verſe? <hi>De ligno autem ſcientiae boni &amp; mali ne comedas, But of the Tree of Knowledge of Good and Evil thou mayſt not eat;</hi> was it not perhaps a Tree of the Garden?</p>
+               <pb n="23" facs="tcp:60820:13"/>
+               <p>More particularly examining the Text; I find the Grant Rigiſtred in one Verſe, the Prohibition laid down in another, ſo that I am apt to think the Particle <hi>but</hi> to be an Adverſative, no Exceptive, and that the forbidden Tree was rather in the Garden, than of the Garden; it was a Tree of Try<g ref="char:EOLhyphen"/>al, a Tree of apparent Pleaſure, but real Miſery: In a Word, the Trees of Paradiſe bred only the Knowledge of Good; this, the Knowledge of Evil: And could an eaſier Command iſſue from the kindeſt Heart, than of eating what produc'd a ſole Knowledge of Good, and forbearing what caus'd an experimental Knowledge of Good and Evil? of good only by the Loſs of it; of Evil, in the puniſhment of Diſobe<g ref="char:EOLhyphen"/>dience?</p>
+               <p>And yet ungrateful <hi>Adam,</hi> forgetful of Benefits, unmindful of Favours, heed<g ref="char:EOLhyphen"/>leſs
+<pb n="24" facs="tcp:60820:14"/>of his own Calamity, and uncon<g ref="char:EOLhyphen"/>cern'd for his Poſterity, gives Ear to the perfidious Enquiry of his mortal Enemy. <hi>Cur praecepit vobis Deus, ut non comederetis de omni ligno Paradiſi? Why hath God commanded you, you ſhould not eat of every Tree of the Garden?</hi> a grand impoſture, perfectly oppoſite to God's Grant of eating of every Tree: but ſuch <hi>why</hi>'s are never grounded on Truth. <hi>Why?</hi> is it not enough that God Commands? <hi>Why?</hi> and is it not ſufficient, it is thy Duty to obey? even now, thou waſt made of Duſt of the Earth, and canſt thou aſpire to be a God? Thou haſt been told, that Tree ſhould be thy Death, in caſe of eating its Fruit; and canſt thou think by eat<g ref="char:EOLhyphen"/>ing it to be Immortal?</p>
+               <p>But Ambition hears no Reaſon, unſenſible of theſe neceſſary Truths, he gives ear to an un-neceſſary Enquiry;
+<pb n="25" facs="tcp:60820:14"/>from Enquiry, he paſſes to miſtruſt God as Envious: Ambitious Immortality, aims at Divinity, but at once forfeits his preſent Felicity and Eternal, and ſo enſlaves his whole Deſcent, to Death and Miſery; and this, by giving ear to the malicious Suggeſtion of a <hi>why?</hi> A dreadful Example, yet not of Force to root out of the Heart of Man ſuch perverſe Enquiries. There is not a forbidden Fruit, which hath not a <hi>why</hi> written on it, by the ſuggeſtion of our Infernal Enemy.</p>
+               <p>O how agreeable, ſays a tender Conſcience, would ſuch and ſuch a thing be, were it not an Offence of God? and by little and little the Ser<g ref="char:EOLhyphen"/>pent puts in, And <hi>why</hi> ſhould it of<g ref="char:EOLhyphen"/>fend him, it harms him not? That Intereſt above what Law allows, is Uſury and Extortion, ſays Conſcience: What then, ſays the Serpent, art thou
+<pb n="26" facs="tcp:60820:15"/>the poorer for it? To Covet thy Neigh<g ref="char:EOLhyphen"/>bour's Goods or Fortune, ſays Con<g ref="char:EOLhyphen"/>ſcience, is unlawful: <hi>Why</hi> ſo, ſays the Serpent, would they not do as well in thy Hands as theirs? Reſtitution is to be made for that cheat, that wrong, that damage done in Goods or Honour, known only to my ſelf, ſays Conſci<g ref="char:EOLhyphen"/>ence; and <hi>why,</hi> ſays the Serpent? The Law of the Land cannot oblige thee? Perjury is a Sacrilegious Cut-throat, ſays Conſcience, a falſe Witneſs, the Sworn Enemy of God and Man; <hi>why?</hi> theſe are Niceties, ſays the Serpent, bu<g ref="char:EOLhyphen"/>ſineſs muſt be done, and Truth would undo it. To injure my Brother, ſays Conſcience, by raſh Surmiſes, falſe Re<g ref="char:EOLhyphen"/>ports, and making a ſcandal of what's a hidden Sin, is againſt the Precept of Juſtice and Charity; what matters that, ſays the Serpent, as long as upon his Ruine thou buildſt thy own Greatneſs?
+<pb n="27" facs="tcp:60820:15"/>Thoſe laſcivious Inticements, which caſt Reaſon into a Lethargy, and ren<g ref="char:EOLhyphen"/>ders Man little better than a Brute, with all Care poſſible are to be avoided, ſays Conſcience: <hi>Why</hi> ſo? ſays the Ser<g ref="char:EOLhyphen"/>pent, they are but Gallantrys and Fa<g ref="char:EOLhyphen"/>vours; it is diſcourteous, and againſt good Breeding to diſdain them.</p>
+               <p>And is it poſſible that ſuch wretched <hi>why's,</hi> and ſenſeleſs Inſinuations as theſe, ſhould embolden the Heart of Man to ſtand up againſt his God, break his Commandments, and ſet his Juſtice at Defiance? Is it poſſible? I wiſh it were not the daily Practiſe of us Sinners.</p>
+               <p>Should the Apprentice queſtion his Maſters Leſſon? a Servant his Lords Command? ſhould a Souldier, in place of charging his Enemy, turn about and charge his Officer with a <hi>Why?</hi> Would it not be moſt prepoſterous? Each Tradeſman will be credited, and
+<pb n="28" facs="tcp:60820:16"/>obeyed by his Apprentice, each Ma<g ref="char:EOLhyphen"/>ſter by his Servant, each Commander by his Souldier: And God! and God! the King of Kings, and Lord of Lords, is He not to be Obeyed? Is He to be put off with lingring <hi>why's,</hi> and fooliſh Demurrs? No, no, beloved <hi>Chriſtians,</hi> let us no more give Ear to the treache<g ref="char:EOLhyphen"/>rous Suggeſtions of the World, Fleſh, and Devil, but reading each Com<g ref="char:EOLhyphen"/>mandment, in place of <hi>Why's,</hi> let us write over the Words of St. <hi>John, Tu es? Art thou he, O God, that Comands?</hi> We will rather Forfeit our Life and Fortune, than our Obedience. I fear I treſpaſs upon your Patience, and therefore paſs to my 3d point, and ſe<g ref="char:EOLhyphen"/>cond part.</p>
+            </div>
+            <div type="part">
+               <pb n="29" facs="tcp:60820:16"/>
+               <head>Tu es qui venturus eſt, an alium expecta<g ref="char:EOLhyphen"/>mus: Art thou he that ſhould come, or do we look for another?</head>
+               <p>THe Enquiry rightly diſcuſt, im<g ref="char:EOLhyphen"/>plies this Diſcourſe. <hi>If thou art not he that ſhould come, we are to look for another: If thou art he, no other we are to look for.</hi> The litteral ſenſe, I know, implies the <hi>Meſſiah</hi> was to be one, but paſſing to the moral, what is meant by <hi>another,</hi> one may demand, and ra<g ref="char:EOLhyphen"/>tionally too. For certain it is, many things are eſtimable, that are not God, and conſequently are others from God; and are we to ſhut our Eyes to all? No, ſo that we have them open for Truth, which is but one. Muſt we then neglect our Temporal Con<g ref="char:EOLhyphen"/>cerns? No; ſo that we remember our Eternal. Let Rulers, by an equal
+<pb n="30" facs="tcp:60820:17"/>management, of the Ballance and Sword, deliver'd them by the Hand of God, look Majeſty be obſerv'd, it is not to look for another. Let Subjects with inviolable Allegiance, imploy their Talents and Courage in the Service of their Prince and Country, tho' with Honour and Promotion; it is not to look for another. Let Lawyers be true to their Clients, but only in what is juſt: Merchants to their Words, Tradeſmen to their Bargains, be it for the improvement of their Fortune, none of this is to look for another.</p>
+               <p>To look for another, is to look for any thing in oppoſition to God; for an ordinate love of Creatures, with a reference to God, is not a looking for another, but for God: a Tribute due to his Unity, an Unity without which the Trinity it ſelf would not be adora<g ref="char:EOLhyphen"/>ble; and Unity, from which derives,
+<pb n="31" facs="tcp:60820:17" rendition="simple:additions"/>and to which tends the Order of the Univerſe; an Unity the ground of all Obedience, Union and Quiet; by ſeeking this Unity, we ſhall be united and being united to God, united amongſt our ſelves, formidable to our Ghoſtly Enemies: By ſeeking another Faith, and not one; another Church, and not one; another God, and not one; another Government, and not the one and ſet<g ref="char:EOLhyphen"/>tled, we bring in Diviſion; Diviſion from God, Diviſion from Religion, and Diviſion amongſt our ſelves; and Diviſion is ever the cauſe of Grief, Miſery, and Anguiſh. God is but one, and will be the only. <hi>
+                     <g ref="char:V">Ʋ</g>nus Deus, una fides, unum Septima: One God, one Faith,
+<note place="margin">Eph. 4. v. 5.</note> one Baptiſm.</hi>
+               </p>
+               <p>One of the Darlings our deluded Fancy, ſtrangely dotes on, is that of quiet, nothing more obvious to our Thoughts and Deſires, and nothing
+<pb n="32" facs="tcp:60820:18"/>leſs attained to than Quiet. Of the motion we ſee in this World, Philoſo<g ref="char:EOLhyphen"/>phy makes quiet the Author, but mo<g ref="char:EOLhyphen"/>tion ever excluding quiet; quiet proves but an empty Word. Let Philoſophy then for me, reſt in her fancyed quiet, ſeeing nothing can reſt for it. The World was made for Motion: it is to move, and it moves to be; as it can<g ref="char:EOLhyphen"/>not have for its ends, its own deſtructi<g ref="char:EOLhyphen"/>on, ſo it cannot have quiet, nor afford it to Man.</p>
+               <p>God alone is the Center of Man's Heart, to Him our Appetite bears us, to Him all motion carries us. This is the firſt cauſe of this Agitation we ſee in Nature, and viciſſitude of things. <hi>
+                     <g ref="char:V">Ʋ</g>niverſa propter ſemetipſum operatus eſt Dominus,
+<note place="margin">Prov. c. 16. ver. 4.</note> The Lord has made all things for himſelf.</hi> The World for us, and Us, and World for Him; an unſettled World for Us, that we may learn to
+<pb n="33" facs="tcp:60820:18"/>ſettle in him. <hi>Facti ſumus ad te, &amp; irre<g ref="char:EOLhyphen"/>quietum eſt cor noſtrum, donec requieſcat in te,</hi> ſays the experienced St. <hi>Auſtine. Our Heart is made for the Lord, and it is reſtleſs, till in thee it repoſe.</hi> Thou art the one and only, no other we are to look for; as Thou art undivided, ſo is our Heart to be, wholly thine; to this intent makes a Paſſage. <hi>Luke</hi> 12. <hi>ver.</hi> 13. <hi>Ait quidam de turba: Ma<g ref="char:EOLhyphen"/>giſter dic Fratri meo ut dividat me<g ref="char:EOLhyphen"/>cum haereditatem: One of the Company ſaid unto</hi> Chriſt, <hi>Maſter, ſpeak to my Brother, that he divide the Inheritance with me:</hi> But what do you think <hi>Chriſt's</hi> Anſwer was in the following Verſe? <hi>Quis me conſtituit Judicem aut Diviſorem ſupra vos? Man, who made me a Judge or Divider over you?</hi> I know the literal Senſe imports no more, than that Chriſt came only for the Sal<g ref="char:EOLhyphen"/>vation of Souls, and not to meddle
+<pb n="34" facs="tcp:60820:19"/>with Temporal Concerns; yet to my preſent purpoſe, St. <hi>Peter,</hi> Sir-nam'd <hi>Chryſologus,</hi> flies higher, and diſcovers a Myſtery containing the Truth I have in hand, <hi>Praeceps cupiditas &amp; in<g ref="char:EOLhyphen"/>cauta, cum fieri voluit Diviſionis autorem, qui ad reſtituendam venerat humani generis unitatem. A raſh and precipitous deſire, that would have him to be the Divider of an Inheritance, who came to re<g ref="char:EOLhyphen"/>ſtore Unity to Mankind.</hi> Chriſt's Inheritance we are, He will not have it divided; he will have it His, and wholly his.</p>
+               <p>And what hath he not done to make it his own. He created us, he redeemed us; when loſt, he found us; he conſerves us; by him we are, by him we live, in him we move; upon theſe Titles, the greateſt Titles of Property, we are His; and in requital doth he not deſerve our Heart and Love? Doth he not merit that we ſhould look for Him, and no other? Yes, yes, O Lord, Thee alone, we ſhall ſerve, and love; to Thee alone, by a true Faith, Hope, and Charity, we ſhall aſpire; Thee alone we ſhall look for, and not another. That ſo we may do, God of his Infinite Mercy grant us, <hi>In the Name of the Father, the Son, and the Holy Ghoſt,</hi> Amen.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
